@@ -1,0 +1,78 @@
+#background{
+    background-color: #e2e4e5;
+}
+#title {
+    font-family: 'Archivo Black', sans-serif;
+    text-shadow: red;
+    text-align: center;
+    
+}
+#img {
+    align-items: center;
+
+}
+.pakistan{
+    margin-right: 30px;
+    margin-left: 30px;
+    margin-top:20px;
+    margin-bottom:40px;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    font-weight: bolder;
+    float: left;
+    
+}
+.portugal{
+    margin-right: 400px;
+    margin-left: 1px;
+    margin-top:20px;
+    margin-bottom:40px;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    font-weight: bolder;
+    float: unset;
+    box-sizing: border-box;
+    color: red;
+    cursor: pointer;
+}
+.srilanka{
+    margin-right: 30px;
+    margin-left: 30px;
+    margin-top:-250px;
+    margin-bottom:40px;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    font-weight: bolder;
+    float: right;
+}
+.turkey{
+    margin-right: 60px;
+    margin-left: 70px;
+    margin-top:20px;
+    margin-bottom:30px;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-weight: bolder;
+    float: left;
+    clear: left;
+}
+.germany{
+    margin-right: 30px;
+    margin-left: 60px;
+    margin-top:20px;
+    margin-bottom:30px;
+    padding-left: 26px;
+    font-family: 'Dancing Script', cursive;
+    font-weight: bolder;
+}
+.spain{
+    margin-right: 30px;
+    margin-left: 30px;
+    margin-top:-250px;
+    margin-bottom:30px;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    font-weight: bolder;
+    float: right;
+    clear: right;
+}
